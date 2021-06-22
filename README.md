@@ -22,3 +22,8 @@ commands available
 <img src="https://user-images.githubusercontent.com/79045059/122916530-9ee1c880-d37a-11eb-9a62-2064da70967c.png" height=300 width=300 />
 
 <img src="https://user-images.githubusercontent.com/79045059/122916603-b1f49880-d37a-11eb-9add-4c6865c98ba3.png" height=400 width=300 />
+
+```
+I made this bot as a fun collage project so that i can manage my CHOs and timetables you can edit this according to your own need
+if you need any help mail me nyctonio.dev@gmail.com
+```
