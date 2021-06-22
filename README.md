@@ -1,4 +1,4 @@
-# telegrambot
+# Telegrambot
 
 ## A telegram Bot made using JavaScript
 
